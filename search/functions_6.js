@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['resetswipe_87',['ResetSwipe',['../d4/d51/class_bread_and_butter_1_1_mobile_1_1_swipe_input.html#a1d981cfba441252e1d3ffa6d8a2f1766',1,'BreadAndButter::Mobile::SwipeInput']]],
-  ['run_3c_20t_20_3e_88',['Run&lt; T &gt;',['../dd/db2/class_bread_and_butter_1_1_runnable_utils.html#ac23eaa552b55aa7dea4ef6e89ec6f50c',1,'BreadAndButter::RunnableUtils']]]
+  ['initialise_111',['Initialise',['../d1/d4e/class_fra_work_1_1_highscore_1_1_highscore_table.html#ac87ef7929be4f35523a213b269461791',1,'FraWork.Highscore.HighscoreTable.Initialise()'],['../d9/d6e/class_fra_work_1_1_mobile_1_1_mobile_input.html#a129be2ed110f6cfb4be0b1854e25d047',1,'FraWork.Mobile.MobileInput.Initialise()']]]
 ];

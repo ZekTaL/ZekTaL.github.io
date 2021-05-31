@@ -1,7 +1,12 @@
 var searchData=
 [
-  ['generateloot_79',['GenerateLoot',['../d7/d95/class_bread_and_butter_1_1_loot_1_1_loot_table.html#a9bb8bf1bccad25ebe4b972178d4e4dcf',1,'BreadAndButter::Loot::LootTable']]],
-  ['getjoystickaxis_80',['GetJoystickAxis',['../da/d89/class_bread_and_butter_1_1_mobile_1_1_mobile_input.html#ab0f333744c05cc5ab322ae6fb88979a1',1,'BreadAndButter::Mobile::MobileInput']]],
-  ['getpropertyheight_81',['GetPropertyHeight',['../d7/d93/class_bread_and_butter_1_1_tag_drawer.html#a6e81b4de7824ed0aa28a02dedfd74f0a',1,'BreadAndButter::TagDrawer']]],
-  ['getswipe_82',['GetSwipe',['../da/d89/class_bread_and_butter_1_1_mobile_1_1_mobile_input.html#a5c6f35a3c8245e068a995678f0b584b9',1,'BreadAndButter.Mobile.MobileInput.GetSwipe()'],['../d4/d51/class_bread_and_butter_1_1_mobile_1_1_swipe_input.html#a6ce8f5452a94277f1d313a00aad5ab9a',1,'BreadAndButter.Mobile.SwipeInput.GetSwipe()']]]
+  ['calculateflick_96',['CalculateFlick',['../d5/de8/class_fra_work_1_1_mobile_1_1_swipe_input.html#a9c6d2f0c0acf32587055c4836f846e14',1,'FraWork::Mobile::SwipeInput']]],
+  ['calculateruns_3c_20t_20_3e_97',['CalculateRuns&lt; T &gt;',['../d3/d2d/class_fra_work_1_1_utils_1_1_extensions_1_1_lists.html#ab79e3ab7893c99f6fa4312f981cd0736',1,'FraWork::Utils::Extensions::Lists']]],
+  ['checkstattype1_98',['CheckStatType1',['../d1/d4e/class_fra_work_1_1_highscore_1_1_highscore_table.html#a948b2eef89285460e47fc3207285fecb',1,'FraWork::Highscore::HighscoreTable']]],
+  ['checkstattype2_99',['CheckStatType2',['../d1/d4e/class_fra_work_1_1_highscore_1_1_highscore_table.html#a42a3951d28768ca822d57896f6e0fa5e',1,'FraWork::Highscore::HighscoreTable']]],
+  ['checkstattype3_100',['CheckStatType3',['../d1/d4e/class_fra_work_1_1_highscore_1_1_highscore_table.html#a44cc9b96c052625a626f2baa96b0f826',1,'FraWork::Highscore::HighscoreTable']]],
+  ['checkstattype4_101',['CheckStatType4',['../d1/d4e/class_fra_work_1_1_highscore_1_1_highscore_table.html#aa0624d6ae5abd07881c06685cb033516',1,'FraWork::Highscore::HighscoreTable']]],
+  ['checkstattype5_102',['CheckStatType5',['../d1/d4e/class_fra_work_1_1_highscore_1_1_highscore_table.html#aa4f3e9f8f5697a42827fc1b80a9da2a7',1,'FraWork::Highscore::HighscoreTable']]],
+  ['copylist_3c_20t_20_3e_103',['CopyList&lt; T &gt;',['../d3/d2d/class_fra_work_1_1_utils_1_1_extensions_1_1_lists.html#a9f085102edc09d4c058b37580d7aa9d2',1,'FraWork::Utils::Extensions::Lists']]],
+  ['createinspectorgui_104',['CreateInspectorGUI',['../d8/d65/class_fra_work_1_1_highscore_1_1_highscore_manager_editor.html#aa5bc0493ec2fc8dc20e950a7ab38d980',1,'FraWork::Highscore::HighscoreManagerEditor']]]
 ];

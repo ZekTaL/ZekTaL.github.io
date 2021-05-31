@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['setup_3c_20t_20_3e_89',['Setup&lt; T &gt;',['../dd/db2/class_bread_and_butter_1_1_runnable_utils.html#a630244a1aa04038e9f28c0534340538c',1,'BreadAndButter::RunnableUtils']]]
+  ['jumpsearch_3c_20t_20_3e_112',['JumpSearch&lt; T &gt;',['../d3/d2d/class_fra_work_1_1_utils_1_1_extensions_1_1_lists.html#a3893e6466af6f56af01039616b422e5d',1,'FraWork::Utils::Extensions::Lists']]]
 ];

@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['mobileinput_26',['MobileInput',['../da/d89/class_bread_and_butter_1_1_mobile_1_1_mobile_input.html',1,'BreadAndButter::Mobile']]],
-  ['monosingleton_27',['MonoSingleton',['../d4/db0/class_bread_and_butter_1_1_mono_singleton.html',1,'BreadAndButter']]],
-  ['monosingleton_3c_20lootmanager_20_3e_28',['MonoSingleton&lt; LootManager &gt;',['../d4/db0/class_bread_and_butter_1_1_mono_singleton.html',1,'BreadAndButter']]]
+  ['joystickinput_34',['JoystickInput',['../dd/d54/class_fra_work_1_1_mobile_1_1_joystick_input.html',1,'FraWork::Mobile']]],
+  ['jumpsearch_3c_20t_20_3e_35',['JumpSearch&lt; T &gt;',['../d3/d2d/class_fra_work_1_1_utils_1_1_extensions_1_1_lists.html#a3893e6466af6f56af01039616b422e5d',1,'FraWork::Utils::Extensions::Lists']]]
 ];

@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['swipecount_97',['SwipeCount',['../d4/d51/class_bread_and_butter_1_1_mobile_1_1_swipe_input.html#afaa8391be0d32c796b30858df8a00691',1,'BreadAndButter::Mobile::SwipeInput']]]
+  ['swipecount_151',['SwipeCount',['../d5/de8/class_fra_work_1_1_mobile_1_1_swipe_input.html#a44e264713e1fc8a2416b4c7355eb03db',1,'FraWork::Mobile::SwipeInput']]]
 ];

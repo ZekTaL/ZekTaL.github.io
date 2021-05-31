@@ -1,7 +1,6 @@
 var searchData=
 [
-  ['initialise_16',['Initialise',['../da/d89/class_bread_and_butter_1_1_mobile_1_1_mobile_input.html#a3e52e962ecc98660e714c5ffec65723d',1,'BreadAndButter::Mobile::MobileInput']]],
-  ['initialposition_17',['initialPosition',['../d0/da1/class_bread_and_butter_1_1_mobile_1_1_swipe_input_1_1_swipe.html#a6d5b1f86d9f5cba449c96ee546dafc1c',1,'BreadAndButter::Mobile::SwipeInput::Swipe']]],
-  ['irunnable_18',['IRunnable',['../d6/dbc/interface_bread_and_butter_1_1_i_runnable.html',1,'BreadAndButter']]],
-  ['issingletonvalid_19',['IsSingletonValid',['../d4/db0/class_bread_and_butter_1_1_mono_singleton.html#ac7785d7a853f64824f1abd283fe7c66f',1,'BreadAndButter::MonoSingleton']]]
+  ['gethighscoreitems_23',['GetHighscoreItems',['../d1/d4e/class_fra_work_1_1_highscore_1_1_highscore_table.html#a16492183da3d2ac2159440fd3bf089a6',1,'FraWork::Highscore::HighscoreTable']]],
+  ['getjoystickaxis_24',['GetJoystickAxis',['../d9/d6e/class_fra_work_1_1_mobile_1_1_mobile_input.html#a6ab195a3b9565689f5c557a900e08f45',1,'FraWork::Mobile::MobileInput']]],
+  ['getswipe_25',['GetSwipe',['../d9/d6e/class_fra_work_1_1_mobile_1_1_mobile_input.html#ab18e58448a8bed8aa957f5eea6d2e806',1,'FraWork.Mobile.MobileInput.GetSwipe()'],['../d5/de8/class_fra_work_1_1_mobile_1_1_swipe_input.html#a2cfc6499323585bc740a76229432de0c',1,'FraWork.Mobile.SwipeInput.GetSwipe()']]]
 ];

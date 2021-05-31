@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['initialise_83',['Initialise',['../da/d89/class_bread_and_butter_1_1_mobile_1_1_mobile_input.html#a3e52e962ecc98660e714c5ffec65723d',1,'BreadAndButter::Mobile::MobileInput']]],
-  ['issingletonvalid_84',['IsSingletonValid',['../d4/db0/class_bread_and_butter_1_1_mono_singleton.html#ac7785d7a853f64824f1abd283fe7c66f',1,'BreadAndButter::MonoSingleton']]]
+  ['empty_3c_20t_20_3e_105',['Empty&lt; T &gt;',['../d3/d2d/class_fra_work_1_1_utils_1_1_extensions_1_1_lists.html#a714365565c46c5d15b739d14a49d1d19',1,'FraWork::Utils::Extensions::Lists']]]
 ];

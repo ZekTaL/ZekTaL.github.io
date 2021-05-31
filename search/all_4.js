@@ -1,7 +1,11 @@
 var searchData=
 [
-  ['generateloot_12',['GenerateLoot',['../d7/d95/class_bread_and_butter_1_1_loot_1_1_loot_table.html#a9bb8bf1bccad25ebe4b972178d4e4dcf',1,'BreadAndButter::Loot::LootTable']]],
-  ['getjoystickaxis_13',['GetJoystickAxis',['../da/d89/class_bread_and_butter_1_1_mobile_1_1_mobile_input.html#ab0f333744c05cc5ab322ae6fb88979a1',1,'BreadAndButter::Mobile::MobileInput']]],
-  ['getpropertyheight_14',['GetPropertyHeight',['../d7/d93/class_bread_and_butter_1_1_tag_drawer.html#a6e81b4de7824ed0aa28a02dedfd74f0a',1,'BreadAndButter::TagDrawer']]],
-  ['getswipe_15',['GetSwipe',['../da/d89/class_bread_and_butter_1_1_mobile_1_1_mobile_input.html#a5c6f35a3c8245e068a995678f0b584b9',1,'BreadAndButter.Mobile.MobileInput.GetSwipe()'],['../d4/d51/class_bread_and_butter_1_1_mobile_1_1_swipe_input.html#a6ce8f5452a94277f1d313a00aad5ab9a',1,'BreadAndButter.Mobile.SwipeInput.GetSwipe()']]]
+  ['extensions_15',['Extensions',['../dc/df1/namespace_fra_work_1_1_utils_1_1_extensions.html',1,'FraWork::Utils']]],
+  ['fingerid_16',['fingerId',['../d8/d54/class_fra_work_1_1_mobile_1_1_swipe_input_1_1_swipe.html#afb16dc07bccad737476a4e3729dd088f',1,'FraWork::Mobile::SwipeInput::Swipe']]],
+  ['flickdirection_17',['FlickDirection',['../d5/de8/class_fra_work_1_1_mobile_1_1_swipe_input.html#ac9f9c0c9bea1922627f7946b17e39f89',1,'FraWork::Mobile::SwipeInput']]],
+  ['flickpower_18',['FlickPower',['../d5/de8/class_fra_work_1_1_mobile_1_1_swipe_input.html#aff486e98943e19d7cea719fb81b7658e',1,'FraWork::Mobile::SwipeInput']]],
+  ['frawork_19',['FraWork',['../d2/d4b/namespace_fra_work.html',1,'']]],
+  ['highscore_20',['Highscore',['../d9/d68/namespace_fra_work_1_1_highscore.html',1,'FraWork']]],
+  ['mobile_21',['Mobile',['../d2/dc3/namespace_fra_work_1_1_mobile.html',1,'FraWork']]],
+  ['utils_22',['Utils',['../d2/d11/namespace_fra_work_1_1_utils.html',1,'FraWork']]]
 ];

@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['calculateflick_75',['CalculateFlick',['../d4/d51/class_bread_and_butter_1_1_mobile_1_1_swipe_input.html#aadfaf3463c5b612a95b0d7052911829c',1,'BreadAndButter::Mobile::SwipeInput']]],
-  ['createinstance_76',['CreateInstance',['../d4/db0/class_bread_and_butter_1_1_mono_singleton.html#a1e09b8af80f2f5b74bfebc3b54850e0e',1,'BreadAndButter::MonoSingleton']]]
+  ['additemstolist_92',['AddItemsToList',['../d1/d4e/class_fra_work_1_1_highscore_1_1_highscore_table.html#a1920ba65b5726f51238aa67e4a7f990c',1,'FraWork::Highscore::HighscoreTable']]],
+  ['addtotable_93',['AddToTable',['../d6/de4/class_fra_work_1_1_highscore_1_1_highscore_manager.html#ac1cbd925ce6dffd4eac44da6b957e36d',1,'FraWork::Highscore::HighscoreManager']]]
 ];

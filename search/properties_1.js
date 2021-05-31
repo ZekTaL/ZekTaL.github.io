@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['flickdirection_95',['FlickDirection',['../d4/d51/class_bread_and_butter_1_1_mobile_1_1_swipe_input.html#a5faf466178f63411fce6d9beb0fd5d88',1,'BreadAndButter::Mobile::SwipeInput']]],
-  ['flickpower_96',['FlickPower',['../d4/d51/class_bread_and_butter_1_1_mobile_1_1_swipe_input.html#a4fcf268d154f43e7e3fea17b50787c45',1,'BreadAndButter::Mobile::SwipeInput']]]
+  ['flickdirection_149',['FlickDirection',['../d5/de8/class_fra_work_1_1_mobile_1_1_swipe_input.html#ac9f9c0c9bea1922627f7946b17e39f89',1,'FraWork::Mobile::SwipeInput']]],
+  ['flickpower_150',['FlickPower',['../d5/de8/class_fra_work_1_1_mobile_1_1_swipe_input.html#aff486e98943e19d7cea719fb81b7658e',1,'FraWork::Mobile::SwipeInput']]]
 ];
