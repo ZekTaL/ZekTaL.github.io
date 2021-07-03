@@ -1,8 +1,8 @@
 var searchData=
 [
-  ['extensions_87',['Extensions',['../dc/df1/namespace_fra_work_1_1_utils_1_1_extensions.html',1,'FraWork::Utils']]],
-  ['frawork_88',['FraWork',['../d2/d4b/namespace_fra_work.html',1,'']]],
-  ['highscore_89',['Highscore',['../d9/d68/namespace_fra_work_1_1_highscore.html',1,'FraWork']]],
-  ['mobile_90',['Mobile',['../d2/dc3/namespace_fra_work_1_1_mobile.html',1,'FraWork']]],
-  ['utils_91',['Utils',['../d2/d11/namespace_fra_work_1_1_utils.html',1,'FraWork']]]
+  ['codice_4356',['Codice',['../db/d3a/namespace_codice.html',1,'']]],
+  ['collabproxy_4357',['CollabProxy',['../de/ddc/namespace_collab_proxy.html',1,'']]],
+  ['core_4358',['Core',['../d0/d35/namespace_core.html',1,'']]],
+  ['inputfield_4359',['InputField',['../d3/d30/namespace_core_1_1_input_field.html',1,'Core']]],
+  ['ui_4360',['UI',['../da/d44/namespace_collab_proxy_1_1_u_i.html',1,'CollabProxy']]]
 ];

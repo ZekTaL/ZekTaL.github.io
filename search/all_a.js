@@ -1,6 +1,8 @@
 var searchData=
 [
-  ['merge_3c_20t_20_3e_38',['Merge&lt; T &gt;',['../d3/d2d/class_fra_work_1_1_utils_1_1_extensions_1_1_lists.html#af8d6b1d0c2dac37fd91d0b8e12c9c91a',1,'FraWork::Utils::Extensions::Lists']]],
-  ['mergesort_3c_20t_20_3e_39',['MergeSort&lt; T &gt;',['../d3/d2d/class_fra_work_1_1_utils_1_1_extensions_1_1_lists.html#ae6e764030a35ae31047b633e8a90a61a',1,'FraWork::Utils::Extensions::Lists']]],
-  ['mobileinput_40',['MobileInput',['../d9/d6e/class_fra_work_1_1_mobile_1_1_mobile_input.html',1,'FraWork::Mobile']]]
+  ['editor_1466',['Editor',['../d7/db8/namespace_jet_brains_1_1_rider_1_1_unity_1_1_editor.html',1,'JetBrains::Rider::Unity']]],
+  ['jetbrains_1467',['JetBrains',['../d1/d53/namespace_jet_brains.html',1,'']]],
+  ['jog_1468',['Jog',['../d3/d79/class_unity_editor_1_1_timeline_1_1_jog.html',1,'UnityEditor::Timeline']]],
+  ['rider_1469',['Rider',['../db/d6b/namespace_jet_brains_1_1_rider.html',1,'JetBrains']]],
+  ['unity_1470',['Unity',['../db/d98/namespace_jet_brains_1_1_rider_1_1_unity.html',1,'JetBrains::Rider']]]
 ];
